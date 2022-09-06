@@ -1,10 +1,10 @@
 {
   "name": "node_tts",
   "version": "1.0.0",
-  "description": "",
+  "description": "An application that notifies you and issues a phone call if some of the",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node monitor/server.js"
   },
   "author": "Ryan Menezes",
   "license": "MIT",
